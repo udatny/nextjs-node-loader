@@ -1,0 +1,29 @@
+{
+  "name": "next-14-resvg",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "next": "14.2.5",
+    "nextjs-node-loader": "^1.1.5",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@webpack-contrib/eslint-config-webpack": "^3.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.3",
+    "eslint-webpack-plugin": "^4.2.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5"
+  }
+}
