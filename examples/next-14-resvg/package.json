@@ -11,7 +11,6 @@
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
     "next": "14.2.5",
-    "nextjs-node-loader": "^1.1.5",
     "react": "^18",
     "react-dom": "^18"
   },
